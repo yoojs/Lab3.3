@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRun</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="Profile_Picture">Profile Picture</string>
+    <string name="Change">Change</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="Name">Name:</string>
+    <string name="Email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="gender">Gender:</string>
+    <string name="class_name">Class:</string>
+    <string name="major">Major:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
